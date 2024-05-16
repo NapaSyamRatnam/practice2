@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>photography</title>
+    <style>
+
+
+.apple {
+            background-color:pink ;
+            padding:6px;
+            font-size:larger;
+        }
+a{
+        padding:2rem;
+       text-decoration:none; 
+    }
+
+a:hover{
+        background-color:skyblue;
+        padding:5px;;
+    }
+
+h1{
+        background-color:darksalmon;
+        
+       
+    }
+
+
+footer{
+         background-color:skyblue;
+         padding:5px;
+
+
+    }
+    </style>
+</head>
+<body>
+    <img src="https://img.freepik.com/premium-photo/icon-design-inspiration-creative-simple-wallpaper-background-banner-logo-art-illustration-shape_1041572-17362.jpg?w=996" width="1500" height=550px >
+    <div class="apple">
+    <ul>
+        
+    <a href="home.html"> Home </a>
+    <a href="About.html"> About </a>
+    <a href="sign in .html">Sign up</a>
+    <a href="Login.html">Login</a>
+    <a href="contact us.html">Contact Us</a>
+</ul>
+        
+   <Form align="right">
+    <input type="search" placeholder="type the text ">
+<a href="https://in.search.yahoo.com/search?fr=mcafee&type=E211IN714G0&p=images+of+nature"><button class="button"> search </button></ul> </a>
+</Form>
+</div>
+<h1 align="center"> <i> Beautiful Photography  </i> </h1>
+
+<img src="https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&w=600" width="500" >
+<img src="https://images.pexels.com/photos/403495/pexels-photo-403495.jpeg?auto=compress&cs=tinysrgb&w=600" width="530" >
+<img src="https://images.pexels.com/photos/307847/pexels-photo-307847.jpeg?auto=compress&cs=tinysrgb&w=600" width="440" > 
+<br>
+<h1><i>“If your photos aren’t good enough, then you’re not close enough.” “When words become unclear, I shall focus with photographs. When images become inadequate, I shall be content with silence.”</i></h1>
+<p><b>
+Photography is the art, application, and practice of creating images by recording light, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film. It is employed in many fields of science, manufacturing (e.g., photolithography), and business, as well as its more direct uses for art, film and video production, recreational purposes, hobby, and mass communication.<br><br>
+
+Typically, a lens is used to focus the light reflected or emitted from objects into a real image on the light-sensitive surface inside a camera during a timed exposure. With an electronic image sensor, this produces an electrical charge at each pixel, which is electronically processed and stored in a digital image file for subsequent display or processing. The result with photographic emulsion is an invisible latent image, which is later chemically "developed" into a visible image, either negative or positive, depending on the purpose of the photographic material and the method of processing. A negative image on film is traditionally used to photographically create a positive image on a paper base, known as a print, either by using an enlarger or by contact printing.
+</b></p>
+<br>
+
+
+
+<p>
+
+                                                   <h1> <i> Services</i> </h1>   
+                                                   
+                                                   
+
+
+  <h2> Life style Photos </h2>                                                  <h2>  Fashion photos    </h2>    <h2> Wedding photos </h2>         
+  <h2>   Birthday photos </h2>                                                   <h2>   Animal photos   </h2>     <h2> Landscope photos</h2>
+<pre>
+                                     <img src="https://wallpapercave.com/wp/wp1933315.jpg" width="1000" height="550" >
+</pre>  
+<p>
+
+
+    <footer>
+       <center>
+                  <p> 2024 Copy right.<a href="#">All rights are reserved</a></p>
+      </center>
+
+      </footer>
+   
+    
+
+
+
+
+</body>
+</html>
